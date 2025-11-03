@@ -1,1 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bianca Valentina Galeano</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        header {
+            background-color: #6c63ff;
+            color: white;
+            text-align: center;
+            padding: 30px 0;
+        }
+        main {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #6c63ff;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #6c63ff;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
+        a {
+            color: #ffe600;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bianca Valentina Galeano</h1>
+        <p>Creativa, comunicativa y apasionada por aprender</p>
+    </header>
+
+    <main>
+        <section id="biografia">
+            <h2>Sobre mí</h2>
+            <p>
+                ¡Hola! Soy Bianca Valentina Galeano, una persona con gran capacidad de comunicación, 
+                buen entendimiento y una mente creativa. Me gusta enfrentar nuevos desafíos con seguridad 
+                y entusiasmo, siempre buscando crecer personal y profesionalmente.
+            </p>
+        </section>
+
+        <section id="habilidades">
+            <h2>Mis habilidades</h2>
+            <ul>
+                <li>Buena comunicación</li>
+                <li>Buen entendimiento</li>
+                <li>Creativa</li>
+                <li>Segura</li>
+            </ul>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Puedes encontrarme en mis redes sociales:</p>
+            <p>
+                <a href="#" target="_blank">Instagram</a> |
+                <a href="#" target="_blank">LinkedIn</a> |
+                <a href="#" target="_blank">Facebook</a>
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Bianca Valentina Galeano</p>
+    </footer>
+</body>
+</html>
 
