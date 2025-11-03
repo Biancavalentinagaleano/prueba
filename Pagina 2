@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+</header>
+<section>
+<h2>Galería</h2>
+<ul>
+<li>
+<figure>
+<img src="imagenes/producto1.jpg" alt="Producto 1" width="320" height="240">
+<figcaption>Producto 1 — Cafetera eléctrica compacta</figcaption>
+</figure>
+<p>Una cafetera ideal para uso doméstico, con diseño compacto y facilidad de uso.</p>
+</li>
+<li>
+<figure>
+<img src="imagenes/producto2.jpg" alt="Producto 2" width="320" height="240">
+<figcaption>Producto 2 — Auriculares inalámbricos</figcaption>
+</figure>
+<p>Auriculares con buena cancelación de ruido y batería de larga duración.</p>
+</li>
+<li>
+<figure>
+<img src="imagenes/producto3.jpg" alt="Producto 3" width="320" height="240">
+<figcaption>Producto 3 — Mochila urbana resistente</figcaption>
+</figure>
+<p>Mochila con múltiples compartimentos y material resistente al agua.</p>
+</li>
+</ul>
+</section>
+<footer>
+<p>Volver al <a href="index.html">índice</a>.</p>
+</footer>
+</body>
+</html>
